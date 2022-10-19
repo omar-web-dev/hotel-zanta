@@ -1,0 +1,7 @@
+.my_bg_image{
+  background : ulr('https://i.ibb.co/GMLxgg0/herorrom-slider.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-position: 70%;
+}
